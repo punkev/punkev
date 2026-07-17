@@ -2,7 +2,7 @@
   
   # ⚡ Kevin Dsouza (@punkev) 🛡️
   
-  **Lead Application Security Engineer (VP) @ Citibank**
+  **Senior Security Engineer @ Citibank**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dsouza/)
   [![GitHub followers](https://img.shields.io/github/followers/punkev?style=for-the-badge&color=ff007f&logo=github)](https://github.com/punkev)
