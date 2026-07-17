@@ -36,16 +36,16 @@
 <div align="left">
 
 ### 💻 Languages & Frameworks
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Python-1a1c23?style=for-the-badge&logo=python&logoColor=3776AB)
+![](https://img.shields.io/badge/C%2B%2B-1a1c23?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![](https://img.shields.io/badge/TypeScript-1a1c23?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![](https://img.shields.io/badge/Bash-1a1c23?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 
 ### 🛡️ AppSec & Pentest Tools
-![](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
-![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/Burp_Suite-1a1c23?style=for-the-badge&logo=portswigger&logoColor=FF6600)
+![](https://img.shields.io/badge/Wireshark-1a1c23?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![](https://img.shields.io/badge/Docker-1a1c23?style=for-the-badge&logo=docker&logoColor=2496ED)
+![](https://img.shields.io/badge/GitHub_Actions-1a1c23?style=for-the-badge&logo=github-actions&logoColor=2088FF)
 
 </div>
 
@@ -55,10 +55,10 @@
 
 | Repository | Focus Area | Description |
 | :--- | :--- | :--- |
-| [🤖 SAST-GITHUB-AGENTS](https://github.com/punkev/SAST-GITHUB-AGENTS) | Agentic Security | Creating and integrating AI agents for GitHub Copilot to streamline SAST. |
+| [🤖 SAST-AGENT](https://github.com/punkev/SAST-AGENT) | Agentic Security | IDE agent framework for running source-code reviews on Java, Spring, Node, and Fullstack apps. |
 | [🔌 AGENT-VSCODE](https://github.com/punkev/AGENT-VSCODE) | VS Code Extension | Extension suite used to maintain and execute SAST agents locally in the IDE. |
+| [🕷️ ChunkieJS](https://github.com/punkev/ChunkieJS) | Web Application Security | Python-based Burp Suite extension to detect Webpack chunk JS files and de-obfuscate URLs. |
 | [📶 WiFi-Deauth-Detector](https://github.com/punkev/WiFi-Deauth-Detector) | Wireless / IoT Security | Real-time C++ deauthentication frame detector for wireless monitoring. |
-| [🔑 awesome-api-security](https://github.com/punkev/awesome-api-security) | API Security | Curation of best-in-class resources, techniques, and tools for API assessment. |
 | [📘 GWAPT-PREP](https://github.com/punkev/GWAPT-PREP) | Web App Pentesting | Comprehensive preparation resources, cheatsheets, and walkthroughs for GWAPT. |
 
 ---
