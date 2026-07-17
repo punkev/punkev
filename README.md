@@ -10,7 +10,7 @@
   ---
   
   <p align="center">
-    Application Security Lead with 5+ years of experience securing enterprise environments, conducting manual source code reviews, penetration testing, and integrating DevSecOps pipelines.
+    Application Security Engineer with 5+ years of experience securing enterprise environments, conducting manual source code reviews, penetration testing, and integrating DevSecOps pipelines.
   </p>
 
   <code>🛡️ AppSec & Pentesting</code> &bull; 
