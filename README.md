@@ -75,6 +75,20 @@
 
 ---
 
+## 🏆 Featured Projects
+
+| Repository | Focus Area | Description |
+| :--- | :--- | :--- |
+| [🤖 SAST-AGENT](https://github.com/punkev/SAST-AGENT) | Agentic Security | IDE agent framework for running source-code reviews on Java, Spring, Node, and Fullstack apps. |
+| [🔌 AGENT-VSCODE](https://github.com/punkev/AGENT-VSCODE) | VS Code Extension | Extension suite used to maintain and execute SAST agents locally in the IDE. |
+| [🤖 SAST-GITHUB-AGENTS](https://github.com/punkev/SAST-GITHUB-AGENTS) | Agentic Security | Framework and templates to design, build, and deploy custom agents for GitHub Copilot. |
+| [🔌 Covert-Network-Channels](https://github.com/punkev/Covert-Network-Channels) | Network Security | Implementation and analysis of stealthy network protocols for covert communication. |
+| [📶 WiFi-Deauth-Detector](https://github.com/punkev/WiFi-Deauth-Detector) | Wireless Security | Real-time C++ deauthentication frame detector for wireless network monitoring. |
+| [📶 Wifi-Deauther](https://github.com/punkev/Wifi-Deauther) | Wireless Security | Custom C++ tool to test Wi-Fi network vulnerability against deauthentication frames. |
+| [📶 Deauth-Forensics](https://github.com/punkev/Deauth-Forensics) | Wireless Security | Wireless frame forensics tool to trace and analyze active deauthentication attacks. |
+
+---
+
 ## 📊 Stats & Activity
 
 <div align="center">
