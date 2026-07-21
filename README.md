@@ -95,10 +95,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=punkev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="punkev GitHub Stats" height="150" />
+        <img src="https://github-stats-extended.vercel.app/api?username=punkev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="punkev GitHub Stats" height="150" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punkev&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="punkev Top Languages" height="150" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=punkev&layout=compact&theme=radical&hide_border=true&langs_count=5" alt="punkev Top Languages" height="150" />
       </td>
     </tr>
   </table>
