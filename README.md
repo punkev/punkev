@@ -4,6 +4,10 @@
   
   **Senior Security Engineer @ Citibank**
   
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=550&lines=Senior+Security+Engineer+@+Citibank;AppSec+%26+Pentesting+Specialist;DevSecOps+%26+Security+Tooling;Agentic+SAST+%26+Code+Review" alt="Typing Header" />
+  </p>
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dsouza/)
   [![GitHub followers](https://img.shields.io/github/followers/punkev?style=for-the-badge&color=ff007f&logo=github)](https://github.com/punkev)
   
@@ -77,15 +81,15 @@
 
 ## 🏆 Featured Projects
 
-| Repository | Focus Area | Description |
-| :--- | :--- | :--- |
-| [🤖 SAST-AGENT](https://github.com/punkev/SAST-AGENT) | Agentic Security | IDE agent framework for running source-code reviews on Java, Spring, Node, and Fullstack apps. |
-| [🔌 AGENT-VSCODE](https://github.com/punkev/AGENT-VSCODE) | VS Code Extension | Extension suite used to maintain and execute SAST agents locally in the IDE. |
-| [🤖 SAST-GITHUB-AGENTS](https://github.com/punkev/SAST-GITHUB-AGENTS) | Agentic Security | Framework and templates to design, build, and deploy custom agents for GitHub Copilot. |
-| [🔌 Covert-Network-Channels](https://github.com/punkev/Covert-Network-Channels) | Network Security | Implementation and analysis of stealthy network protocols for covert communication. |
-| [📶 WiFi-Deauth-Detector](https://github.com/punkev/WiFi-Deauth-Detector) | Wireless Security | Real-time C++ deauthentication frame detector for wireless network monitoring. |
-| [📶 Wifi-Deauther](https://github.com/punkev/Wifi-Deauther) | Wireless Security | Custom C++ tool to test Wi-Fi network vulnerability against deauthentication frames. |
-| [📶 Deauth-Forensics](https://github.com/punkev/Deauth-Forensics) | Wireless Security | Wireless frame forensics tool to trace and analyze active deauthentication attacks. |
+| Repository | Focus Area | Description | Stats |
+| :--- | :--- | :--- | :--- |
+| [🤖 SAST-AGENT](https://github.com/punkev/SAST-AGENT) | Agentic Security | IDE agent framework for running source-code reviews on Java, Spring, Node, and Fullstack apps. | [![Stars](https://img.shields.io/github/stars/punkev/SAST-AGENT?style=flat-square&color=ff007f&logo=github)](https://github.com/punkev/SAST-AGENT/stargazers) |
+| [🔌 AGENT-VSCODE](https://github.com/punkev/AGENT-VSCODE) | VS Code Extension | Extension suite used to maintain and execute SAST agents locally in the IDE. | [![Stars](https://img.shields.io/github/stars/punkev/AGENT-VSCODE?style=flat-square&color=ff007f&logo=github)](https://github.com/punkev/AGENT-VSCODE/stargazers) |
+| [🤖 SAST-GITHUB-AGENTS](https://github.com/punkev/SAST-GITHUB-AGENTS) | Agentic Security | Framework and templates to design, build, and deploy custom agents for GitHub Copilot. | [![Stars](https://img.shields.io/github/stars/punkev/SAST-GITHUB-AGENTS?style=flat-square&color=ff007f&logo=github)](https://github.com/punkev/SAST-GITHUB-AGENTS/stargazers) |
+| [🔌 Covert-Network-Channels](https://github.com/punkev/Covert-Network-Channels) | Network Security | Implementation and analysis of stealthy network protocols for covert communication. | [![Stars](https://img.shields.io/github/stars/punkev/Covert-Network-Channels?style=flat-square&color=ff007f&logo=github)](https://github.com/punkev/Covert-Network-Channels/stargazers) |
+| [📶 WiFi-Deauth-Detector](https://github.com/punkev/WiFi-Deauth-Detector) | Wireless Security | Real-time C++ deauthentication frame detector for wireless network monitoring. | [![Stars](https://img.shields.io/github/stars/punkev/WiFi-Deauth-Detector?style=flat-square&color=ff007f&logo=github)](https://github.com/punkev/WiFi-Deauth-Detector/stargazers) |
+| [📶 Wifi-Deauther](https://github.com/punkev/Wifi-Deauther) | Wireless Security | Custom C++ tool to test Wi-Fi network vulnerability against deauthentication frames. | [![Stars](https://img.shields.io/github/stars/punkev/Wifi-Deauther?style=flat-square&color=ff007f&logo=github)](https://github.com/punkev/Wifi-Deauther/stargazers) |
+| [📶 Deauth-Forensics](https://github.com/punkev/Deauth-Forensics) | Wireless Security | Wireless frame forensics tool to trace and analyze active deauthentication attacks. | [![Stars](https://img.shields.io/github/stars/punkev/Deauth-Forensics?style=flat-square&color=ff007f&logo=github)](https://github.com/punkev/Deauth-Forensics/stargazers) |
 
 ---
 
@@ -102,4 +106,6 @@
       </td>
     </tr>
   </table>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=punkev&theme=react-dark&hide_border=true" alt="punkev Activity Graph" width="100%" />
 </div>
