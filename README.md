@@ -10,7 +10,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dsouza/)
   [![GitHub followers](https://img.shields.io/github/followers/punkev?style=for-the-badge&color=ff007f&logo=github)](https://github.com/punkev)
-  [![GIAC Certified](https://img.shields.io/badge/GIAC-GWEB%20%7C%20GWAPT-00C7B7?style=for-the-badge&logo=shield&logoColor=white)](https://www.credly.com)
+  [![GIAC Certified](https://img.shields.io/badge/GIAC-GAIPS%20%7C%20GWEB%20%7C%20GWAPT-00C7B7?style=for-the-badge&logo=shield&logoColor=white)](https://www.credly.com)
   [![Location](https://img.shields.io/badge/Location-Fort_Lauderdale,_FL-1a1c23?style=for-the-badge&logo=google-maps&logoColor=EA4335)](https://maps.google.com)
   
   ---
@@ -33,6 +33,7 @@
 - 💼 **Current Role**: Information Tech Lead Analyst (VP) at **Citibank**, driving manual source code review, threat modeling, and vulnerability remediation across business-critical distributed systems.
 - 🎓 **Education**: M.S. in Cybersecurity &mdash; **Northeastern University** *(Khoury College of Computer Sciences)*.
 - 🏆 **Certifications**: 
+  - GIAC AI Platform Security (**GAIPS**, Issued Nov 2026)
   - GIAC Certified Web Application Defender (**GWEB**, Issued Aug 2025)
   - GIAC Web Application Penetration Tester (**GWAPT**, Issued Nov 2023)
 - 🎯 **Focus Areas**: Threat modeling, risk-based vulnerability prioritization, secure SDLC integration, and custom security tool development.
